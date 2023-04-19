@@ -1,7 +1,8 @@
 # langthang-coffee
-## create coffee shopping cart website using react (fully responsive)
+## Create coffee shopping cart website using react (fully responsive)
 ## Library: React router v6, Swiper, 
-### main features: just like other shopping website include (add products, remove products, increase quantity , decrease quanity, total money, bill) + bonus user can change avartar !!
+### Main features: just like other shopping website include (add products, remove products, increase quantity , decrease quanity, total money, bill) + bonus user can change avartar !!
+#### Link: https://mtrong100.github.io/langthang-coffee
 ----------------------------------------
 ### SOME IMAGES FOR YOU
 ![image](https://user-images.githubusercontent.com/94778246/233091947-54ef3e7a-800c-44ed-8355-fb4051e3ed25.png)
