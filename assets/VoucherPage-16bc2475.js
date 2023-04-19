@@ -1,0 +1,1 @@
+import{a,j as s}from"./index-cce9519e.js";import{P as e,C as r}from"./Contact-252a97b8.js";import{B as t}from"./Bestseller-6279afc3.js";const l=()=>a("div",{className:"my-32",children:[s(e,{}),s(r,{}),s("div",{className:"mt-32",children:s(t,{})})]});export{l as default};

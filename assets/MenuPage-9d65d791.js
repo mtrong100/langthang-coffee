@@ -1,0 +1,1 @@
+import{a,F as e,j as s}from"./index-cce9519e.js";import{M as r,C as t}from"./Cake-44e5ed23.js";import{B as o}from"./Bestseller-6279afc3.js";const i=()=>a(e,{children:[s(r,{}),s(t,{}),s(o,{})]});export{i as default};

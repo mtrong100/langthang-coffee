@@ -1,0 +1,1 @@
+import{a as s,F as r,j as a}from"./index-cce9519e.js";import{F as o,A as t,S as e}from"./Slogan-0ac82e75.js";const d=()=>s(r,{children:[a("div",{className:"pt-24",children:a(o,{})}),a(t,{}),a(e,{})]});export{d as default};
